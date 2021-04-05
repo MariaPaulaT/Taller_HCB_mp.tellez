@@ -1,0 +1,11 @@
+
+h1 {
+  color: rgba(#00ffea, green, blue, alpha);
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
